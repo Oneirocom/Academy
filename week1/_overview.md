@@ -70,9 +70,10 @@ https://platform.openai.com/tokenizer
 - Graphs are a collection of nodes and connections
 
 ### Let's make a graph!
---> Hello World
+--> Hello World example
+--> Basic interface overview
 
-## Project 1 - Simple Chatbot
+## Project - Simple Chatbot
 
 ### Input Node
 - What is an input?
@@ -104,7 +105,9 @@ Input looks like:
 
 ### Adding comments
 
-### Putting it all together adn testing
+### Putting it all together and testing
+
+### View the run cost in the Request Window
 
 ### Memory
  - We can add short term *and* long term memory, will be covered next week
