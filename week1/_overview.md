@@ -24,6 +24,8 @@ Core concepts are here: https://magick-docs.vercel.app/docs/core-concepts/Overvi
 - Graphs (Spells)
 - Agents
 
+# Part 1
+
 ## Tokens and Prompts
 
 - What is a token? Let's find out!
@@ -52,6 +54,7 @@ https://platform.openai.com/tokenizer
 
  --> https://learnprompting.org/
 
+# Part 2
 ## Introduction to Magick
 
 ### Nodes
@@ -90,8 +93,9 @@ Input looks like:
     ... some other stuff
 }
 
-### Text Template
- - handlebars and input
+### Text Variable
+- What is a variable?
+- Strings vs text
 
 ### Generate Text
 
@@ -100,10 +104,12 @@ Input looks like:
 
 ### Adding comments
 
-### Putting it all together
+### Putting it all together adn testing
 
 ### Memory
  - We can add short term *and* long term memory, will be covered next week
+
+# Part three
 
 ## Set the bot up with Discord
 
@@ -119,3 +125,8 @@ https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-
 
 https://discordjs.guide/preparations/adding-your-bot-to-servers.html#bot-invite-links
 https://discord.com/api/oauth2/authorize?client_id=<YOUR_BOT_TOKEN_HERE>&permissions=0&scope=bot%20applications.commands
+
+## Creating an agent
+
+- Add API keys
+- Enable
