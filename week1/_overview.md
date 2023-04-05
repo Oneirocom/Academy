@@ -12,6 +12,11 @@ Posted on Github at https://github.com/Oneirocom/Academy
 1. git clone OR
 2. press the green "Download" button
 
+## Setting up
+
+1. Log into Magick Academy
+2. Get an OpenAI account and API key
+
 ## Core Concepts
 
 Core concepts are here: https://magick-docs.vercel.app/docs/core-concepts/Overview
