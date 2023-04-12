@@ -12,6 +12,11 @@ Posted on Github at https://github.com/Oneirocom/Academy
 1. git clone OR
 2. press the green "Download" button
 
+## Setting up
+
+1. Log into Magick Academy
+2. Get an OpenAI account and API key
+
 ## Core Concepts
 
 Core concepts are here: https://magick-docs.vercel.app/docs/core-concepts/Overview
@@ -127,7 +132,7 @@ https://discord.com/login?redirect_to=%2Fdevelopers%2Fapplications
 https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot
 
 https://discordjs.guide/preparations/adding-your-bot-to-servers.html#bot-invite-links
-https://discord.com/api/oauth2/authorize?client_id=<YOUR_BOT_TOKEN_HERE>&permissions=0&scope=bot%20applications.commands
+https://discord.com/api/oauth2/authorize?client_id=123456789&permissions=0&scope=bot%20applications.commands
 
 ## Creating an agent
 
