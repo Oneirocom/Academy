@@ -28,7 +28,7 @@ Clustering of concepts in space
 - Visualization of vectors here: https://www.math3d.org/vectors
 - Further help: https://www.youtube.com/watch?v=ml4NSzCQobk
 
-Vectors are a way to describe data as a point in n-dimensional space (but 2D or 3D is nce for visualization)
+Vectors are a way to describe data as a point in n-dimensional space (but 2D or 3D is nice for visualization)
 
 - Words can each have a vector
 - Sentences can be represented as a vector, too!
