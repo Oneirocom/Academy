@@ -5,9 +5,22 @@
 # First, what is a word?
 - We can think of a word as a vector of numbers
 - word2vec is a way to turn a word into a vector of numbers
+- We use a language model that tokenizes first, then generates a vector for each token -- https://platform.openai.com/tokenizer
+
+Relationship between words in space
+<img src="./word2vec.webp">
+
+Clustering of concepts in space
+<img src="./clustering.png">
 
 # We can do this with images too!
 - img2vec does the same thing as word2vec, basically
+<img src="./image_embedding.svg">
+
+# What is a concept?
+- A concept can be described by words, but is more than just a word
+- A concept could be described using completely different words, but still be the same concept
+- Vector embeddings can be used to describe complex concepts in mathematically precise ways
 
 # What is a vector?
 [0, 1, 2]
