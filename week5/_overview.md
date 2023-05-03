@@ -35,6 +35,7 @@ Replace some text with some other text
 Match a some text against a list of rules
 
 ### Text Template
+Create a template with variables and replace the variables with values
 
 ### Current Time
 Gives you the current time!
