@@ -39,14 +39,41 @@ Match a some text against a list of rules
 ### Current Time
 Gives you the current time!
 
-## Code Nodes
+# Control Flow
+One of the core functions of Magick is enabling you to evaluate conditions and make decisions based on those conditions. This is called "control flow" and is a core concept in programming. Magick is a visual programming language, so we use nodes to represent control flow. Magick inherits many concepts from a long line of "flow-based" programming languages, which are a type of visual programming language.
 
-### Javascript Node
-Javascript node is the easiest since our project is native to javascript
+## Exclusive Gate
+Take whichever input happens first (or ever) and pass it on, ignoring the rest
 
-### Python Node
-Python node is a little more complicated since python is running through Javascript with pyodide.
-https://pyodide.org/en/stable/
+If a value is null or undefined, activate the TRUE path, otherwise activate the FALSE path
+
+## Or Gate
+If any trigger arrives, pass it on to the next node
+
+## Random Gate
+Trigger one of the outputs at random
+
+## Switch
+Evaluate the input text and trigger based on one of the cases
+
+# Null
+null means (nothing) or (empty) or (no value). It's not zero. It's just nothing.
+
+## Is Null Or Undefined Node
+
+# Booleans
+Booleans are named after George Boole, for his Boolean Algebra
+In programming, booleans are used to represent true or false
+
+## Boolean Gate
+Evaluate a boolean type for true or false
+
+## Is Variable True
+Evaluate a variable for "true" or "false", including strings and numbers (0 or 1)
+
+## Wait For All
+Wait for all things to execute before passing on the trigger
+Useful for executing multiple asynchronous functions in parallel
 
 ## Adding commands to your agent
 /example
